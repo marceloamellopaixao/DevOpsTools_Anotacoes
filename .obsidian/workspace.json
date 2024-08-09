@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "5cb8cf4f21109d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9055ddeb2eec4ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9390c2dd27f0057f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f08c226d84d94e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc105e814b9d8e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea004e10bbe2d06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "102bbf6eeb66d52f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee85a8cc2d3dfccc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b017c2e7937681a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b818b84f959a6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92a630ce28253bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efdebc52bf0ab332",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d4961321f659d4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "923471e10e04da03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9390c2dd27f0057f",
+  "lastOpenFiles": [
+    "Aula 02/1 - Azure CLI (Command Line).md",
+    "Aula 02/2 - Criando uma VM pelo CLI do Azure.md",
+    "2 - Semestre (DevOps Tools).md",
+    "Aula 02"
+  ]
+}
